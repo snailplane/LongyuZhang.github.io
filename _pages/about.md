@@ -12,6 +12,6 @@ I'm a second year undergraduate student from [School of ESE](https://ese.nju.edu
 
 And I'm very fortunate to be advised by [Prof.CaoXun](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html) of [CITE Lab](https://cite.nju.edu.cn/),Nanjing University.
 
-Click here to look at my CV: [Longyu Zhang's Curriculum Vitae](../zly.pdf/).
+Click here to look at my CV: [Longyu Zhang's Curriculum Vitae](https://github.com/snailplane/LongyuZhang.github.io/blob/master/zly.pdf).
 
 [Email](mailto:221180162@smail.nju.edu.cn)/Wechat: 1192586802
