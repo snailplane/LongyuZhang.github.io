@@ -12,16 +12,16 @@ title                    : " Longyu Zhang/HomePage "
 title_separator          : "-"
 name                     : &name "Longyu Zhang"
 description              : &description "personal description"
-url                      : https://LongyuZhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://snailplane.github.io/LongyuZhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LongyuZhang.github.io"
+repository               : "snail.github.io/LongyuZhang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"zly.png"
+  avatar           : "zly.png"
   name             : "Longyu Zhang (张龙宇) "
   pronouns         : # example: "she/her"  
   bio              : "Purity sparks Creativity"
